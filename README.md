@@ -12,6 +12,9 @@ The original UI design for this project 'fintech/assets/UI Designs'
 1. clone the project
 2. yarn start
 
+### Video Preview
+https://vimeo.com/586699380
+
 ### Note : Design only for mobile view
 
 ![alt text](https://github.com/DanLowo/UI-UX-INTO-CODE/blob/fintech/src/fintech/assets/UI%20Designs/1.jpeg?raw=true)
